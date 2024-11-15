@@ -1,0 +1,1 @@
+A Simple Guess the number application in which application generates the random number between 1 to 100 and the user has to guess that Number. It is a simple and basic application that uses basic widgets and libraries.
